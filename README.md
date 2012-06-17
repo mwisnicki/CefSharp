@@ -6,12 +6,7 @@ This project is [BSD](http://www.opensource.org/licenses/bsd-license.php "BSD Li
 
 # Binary Release
 
-Binary releases contain everything needed to embed Chromium in your CLR application. You will need the [7-Zip archiver](http://www.7-zip.org/ "7-Zip") to extract.
-
-**Current**: [CefSharp-0.11-bin.7z](https://github.com/downloads/ataranto/CefSharp/CefSharp-0.11-bin.7z "Download")
-April 10, 2012, Chromium 20.0.1092.0
-
-See the [ChangeLog](https://github.com/ataranto/CefSharp/blob/master/ChangeLog.md) for update information, or [Downloads](https://github.com/ataranto/CefSharp/downloads) for older releases.
+This fork does not have any binary releases to-date. Please refer to the original repository of [CefSharp] (https://github.com/ataranto/CefSharp) for existing binaries.
 
 # Contact
 
@@ -19,4 +14,9 @@ Please use the [CefSharp Google Group](https://groups.google.com/forum/#!forum/c
 
 # Links
 
+- [CefSharp] (https://github.com/ataranto/CefSharp): Original repository from which this code is forked.
 - [CefGlue](https://bitbucket.org/fddima/cefglue/wiki/Home): An alternative .NET CEF wrapper build using P/Invoke.
+
+# Fork
+
+- The aim of this fork is to bring [CefSharp](https://github.com/carloslozano/CefSharp) up to date with latest CEF3 previews and releases.
