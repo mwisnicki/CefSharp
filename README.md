@@ -19,4 +19,11 @@ Please use the [CefSharp Google Group](https://groups.google.com/forum/#!forum/c
 
 # Fork
 
-- The aim of this fork is to bring [CefSharp](https://github.com/carloslozano/CefSharp) up to date with latest CEF3 previews and releases.
+- Initially, the aim of this fork is to update [CefSharp](https://github.com/carloslozano/CefSharp) and dependencies to use the VS2010 toolsets.
+
+# Changes
+
+###### 0.12
+July 3, 2012, Chromium 21.1180.711
+
+- Refreshed the repo and made some time available for coding... I'm getting there! I have a day job! :P
