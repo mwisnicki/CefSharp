@@ -26,4 +26,5 @@ Please use the [CefSharp Google Group](https://groups.google.com/forum/#!forum/c
 #### v0.12
 ##### July 3, 2012, Chromium 21.1180.711
 - Refreshed the repo and made some time available for coding... I'm getting there! I have a day job! :P
+
 ---------------------------------------
