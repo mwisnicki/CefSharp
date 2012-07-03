@@ -15,7 +15,6 @@ Please use the [CefSharp Google Group](https://groups.google.com/forum/#!forum/c
 # Links
 
 - [CefSharp] (https://github.com/ataranto/CefSharp): Original repository from which this code is forked.
-- [CefGlue](https://bitbucket.org/fddima/cefglue/wiki/Home): An alternative .NET CEF wrapper build using P/Invoke.
 
 # Fork
 
