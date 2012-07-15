@@ -142,7 +142,7 @@ namespace CefSharp.WinForms.Example
             InitializeComponent();
             Text = "CefSharp";
 
-            web_view = new WebView("https://github.com/ataranto/CefSharp", new BrowserSettings());
+            web_view = new WebView("https://github.com/carloslozano/CefSharp", new BrowserSettings());
             web_view.Dock = DockStyle.Fill;
             toolStripContainer.ContentPanel.Controls.Add(web_view);
 

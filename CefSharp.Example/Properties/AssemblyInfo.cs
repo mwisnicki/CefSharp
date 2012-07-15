@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CefSharp.Example")]
 [assembly: AssemblyCompany("Anthony Taranto")]
 [assembly: AssemblyProduct("CefSharp.Example")]
-[assembly: AssemblyCopyright("Copyright © 2012")]
+[assembly: AssemblyCopyright("Copyright © 2012 Anthony Taranto")]
 
-[assembly: AssemblyVersion("0.12.*")]
+[assembly: AssemblyVersion("1.1180.724.*")]
 [assembly: ComVisible(false)]
