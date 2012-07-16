@@ -4,7 +4,6 @@
 *.user
 *.pdb
 *.swp
-*.dll
 *.exe
 *.manifest
 
@@ -16,3 +15,5 @@ bin/
 CefSharp/app.aps
 TestResult.xml
 debug.log
+/Release/CefSharp.Wpf.Example.exe.config
+/Release/CefSharp.WinForms.Example.exe.config
