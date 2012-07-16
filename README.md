@@ -6,19 +6,17 @@ This project is [BSD](http://www.opensource.org/licenses/bsd-license.php "BSD Li
 
 # Binary Release
 
-This fork does not have any binary releases to-date. Please refer to the original repository of [CefSharp] (https://github.com/ataranto/CefSharp) for existing binaries.
+The /Release directory of this repo contains the CEF and [CefSharp](https://github.com/carloslozano/CefSharp) binaries. Debug versions are not available on the repo itself to save on space. If you need them, please let me @carloslozano know and I'll share them with you.
 
 # Contact
 
-Please use the [CefSharp Google Group](https://groups.google.com/forum/#!forum/cefsharp) for discussions of CefSharp usage.
-
-# Links
-
-- [CefSharp] (https://github.com/ataranto/CefSharp): Original repository from which this code is forked.
+Please use the [CefSharp Google Group](https://groups.google.com/forum/#!forum/cefsharp) for discussions of CefSharp usage. There are several forks of CefSharp, please clearly identify VS2010 version if referring to this one.
 
 # Fork
 
-- Initially, the aim of this fork is to update [CefSharp](https://github.com/carloslozano/CefSharp) and dependencies to use the VS2010 toolsets.
+- Initially, the aim of this fork is to update [CefSharp](https://github.com/carloslozano/CefSharp) and dependencies to use the VS2010 toolsets on Windoze.
+- Create Mono versions on latest available frameworks on MacOSX and Linux.
+- Focus will be on CefSharp.dll and CEF binaries and not on specific uses or demos of the library.
 
 # Changes
 ---------------------------------------
