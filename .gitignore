@@ -17,3 +17,4 @@ TestResult.xml
 debug.log
 /Release/CefSharp.Wpf.Example.exe.config
 /Release/CefSharp.WinForms.Example.exe.config
+/Debug/locales
