@@ -6,7 +6,7 @@ This project is [BSD](http://www.opensource.org/licenses/bsd-license.php "BSD Li
 
 # Binary Release
 
-The /Release directory of this repo contains the CEF and [CefSharp](https://github.com/carloslozano/CefSharp) binaries. Debug versions are not available on the repo itself to save on space. If you need them, please let me @carloslozano know and I'll share them with you.
+The /Release directory of this repo contains the CEF and [CefSharp](https://github.com/carloslozano/CefSharp) binaries. Debug versions are not available on the repo itself to save on space. If you need them, please let me [carloslozano] know and I'll share them with you.
 
 # Contact
 
