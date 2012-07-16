@@ -1,0 +1,6 @@
+WANdisco Subversion 1.6.18
+
+Software Versions:
+
+Apache Subversion 1.6.18 (including mod_dav_svn and mod_authz_svn)
+Apache HTTPD 2.2.15

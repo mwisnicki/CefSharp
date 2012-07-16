@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<title>WANdisco Subversion README</title>
+<!-- Version 1.00 June 17 2010 -->    
+    
+<link href="http://www.wandisco.com/css/style3.css" rel="stylesheet" type="text/css" />
+<!-- Local style variations -->  
+<style type="text/css">
+body {background-color: #FFFFFF ; margin-left: 25px; margin-right: 25px;}
+
+h1 {
+  color: #0068b3;
+  border-width: 1px;
+  border: 1px solid #ccc;
+  text-align: center}
+  
+  background-color: transparent;
+  font-family: arial, verdana, helvetica, sans-serif;
+  font-size: 150%;
+  font-weight: bold;
+  text-align: left;
+  margin: 1em 0 0 0;
+  padding: 1em 0 0 0;
+}
+
+          
+
+h2 {
+  color: #0068b3;
+  background-color: transparent;
+  font-family: arial, verdana, helvetica, sans-serif;
+  font-size: 140%;
+  text-align: left;
+  margin: 1em 0 0 0;
+  padding: 1em 0 0 0;
+}
+
+h3 {
+    font-size: 140%;
+    color: #0068b3;
+      margin: 1em 0 0 0;
+  padding: 1em 0 0 0;
+}
+   
+pre {
+        font-family: Liberation Mono, Courier New;
+	font-size: 10pt;
+	margin-left: 15px;
+	margin-right: 15px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	background: #f5f5f5;
+	line-height: 1.2em;
+	background: url(http://docs.wandisco.com/svn/ms/4/styles/pre_code_bg.png) repeat-y left top; /*--Background of lined paper--*/
+	width: 850px;
+	overflow: auto; /*--If the Code exceeds the width, a scrolling is available--*/
+	overflow-Y: hidden;  /*--Hides vertical scroll created by IE--*/
+}
+
+.note {
+  	background: #D8D8D8; 
+	color: black;
+	border: 1px dashed #ccc;
+	margin: 5px;
+	padding: 8px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt; 
+}
+
+
+
+</style>  
+</head>
+
+<body>
+<img src="http://www.wandisco.com/images/5/wd.gif" alt="WANdisco Logo" />
+    
+<h1>WANdisco Subversion README</h1>
+<p>
+<strong>Date:</strong>  17 June 2010<br/>  
+</p>
+ <h3>Compatibility</h3>
+<p>
+This software works with the following Windows versions:</p>
+<p  class="note">
+<strong>Windows XP</strong>&nbsp;
+<em>(32-bit and 64-bit)</em><br/>
+<strong>Windows Server 2003</strong>&nbsp;<em>(32-bit and 64-bit)</em><br/>
+<strong>Windows Server 2008</strong> &nbsp;<em>(64-bit)</em><br/>
+<strong>Windows Vista</strong>&nbsp;<em>(32-bit and 64-bit)</em><br/>
+<strong>Windows 7</strong>&nbsp;<em>(32-bit and 64-bit)</em><br/>
+</p>
+ <h3>Client</h3>
+ <p>
+ For help with Subversion commands, please see the Subversion Book, this can be found here:
+<a href=" http://svnbook.red-bean.com/nightly/en/index.html">http://svnbook.red-bean.com/nightly/en/index.html</a>
+<br/>
+The Subversion Book may also be found in the <code>.\Documentation\</code> directory named: <strong>subversion-book.pdf</strong>
+ </p>
+
+ <h3>Server</h3>
+ <p><strong>Configuration notes</strong><br/>
+ During the installation you are able to customise Apache <code>HTTPD</code> to work as a Subversion server.</p>
+ For help with installing the product, please see the installation.html  file located in the <code>.\Documentation\</code> directory.</p>
+<p>Post installation, you may configure Apache options via the configuration file in <code>.\Apache2\conf\httpd.conf</code></p>
+<p>For Subversion server specific configuration options see <code>.\Apache2\conf\subversion.conf</code></p>
+<p>For further information on configuring Apache <code>HTTPD</code> with Subversion see the Subversion book located here:
+ <a href="http://svnbook.red-bean.com/nightly/en/svn.ref.mod_dav_svn.conf.html">http://svnbook.red-bean.com/nightly/en/svn.ref.mod_dav_svn.conf.html</a>
+</p>
+ <p>You need to restart the service to apply changes after editing any of the the Apache <code>HTTPD</code> configuration files.
+</p>
+ <h3>Runtime Notes</h3>
+ <p>
+The recommended way to Start/Stop/Restart the Subversion Server is to use the "Server Control" program. 
+ This can be found post-installation within the <strong>"WANdisco Subversion"</strong> start menu entry under the <strong>"Server"</strong> folder.
+<br/>
+ The <strong>"Server Control"</strong> program will place an icon in the Windows task bar that you may use to control the Subversion Server.
+ </p>
+
+<h3>Getting Help</h3>
+<p>To report bugs or to request a feature, email  <a href="mailto:opensource@wandisco.com">opensource@wandisco.com</a><br/>
+This e-mail address should NOT be used for support requests, if you have a support contract with us, please <a href="http://subversion.wandisco.com/support/">raise a ticket</a>.</p>
+<p>
+If you need professional support with your Subversion implementation, we have a range of competitive support contracts available, see: <a href="http://wandisco.com/products/svn/support.php">http://wandisco.com/products/svn/support.php</a>
+<br/>
+For community help, visit our forums located at: <a href="http://subversion.wandisco.com">http://subversion.wandisco.com</a></p>
+
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<br/>
+<br/>
+</body>
+</html>
