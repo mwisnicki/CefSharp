@@ -26,6 +26,7 @@ Please use the [CefSharp Google Group](https://groups.google.com/forum/#!forum/c
 - Compiled new CEF1 libraries to Chromium release 1180 and CEF revision 724.
 - Migrated projects to VS2010/.NET 4.0, compiled, linked and working (despite M$ library inferno).
 - Adopted new versioning scheme to clearly show Chromium release, CEF type and revision and local revision number.
+
 ---------------------------------------
 #### v0.12 - *July 3, 2012, Chromium 21.1180.711*
 - Refreshed the repo and made some time available for coding... I'm getting there! I have a day job! :P
