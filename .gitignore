@@ -5,6 +5,7 @@
 *.pdb
 *.swp
 *.manifest
+*.exe.config
 *.sdf
 *.opensdf
 
@@ -18,4 +19,5 @@ TestResult.xml
 debug.log
 /Release/CefSharp.Wpf.Example.exe.config
 /Release/CefSharp.WinForms.Example.exe.config
-/Debug
+/Debug/
+/.JustCode/CefSharp2010.solution-user.settings.xml

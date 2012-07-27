@@ -14,15 +14,36 @@
     <ClCompile Include="AssemblyInfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DelegateSchemeHandlerFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderClientAdapterEx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="..\CefSharp\StringUtil.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="WebView.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="WebViewEx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DelegateSchemeHandlerFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DevToolsShowingEventArgs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderClientAdapterEx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="WebView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WebViewEx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

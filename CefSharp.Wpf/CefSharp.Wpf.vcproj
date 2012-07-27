@@ -201,11 +201,23 @@
 				>
 			</File>
 			<File
+				RelativePath=".\DelegateSchemeHandlerFactory.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\RenderClientAdapterEx.cpp"
+				>
+			</File>
+			<File
 				RelativePath="..\CefSharp\StringUtil.cpp"
 				>
 			</File>
 			<File
 				RelativePath=".\WebView.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\WebViewEx.cpp"
 				>
 			</File>
 		</Filter>
@@ -215,7 +227,23 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
+				RelativePath=".\DelegateSchemeHandlerFactory.h"
+				>
+			</File>
+			<File
+				RelativePath=".\DevToolsShowingEventArgs.h"
+				>
+			</File>
+			<File
+				RelativePath=".\RenderClientAdapterEx.h"
+				>
+			</File>
+			<File
 				RelativePath=".\WebView.h"
+				>
+			</File>
+			<File
+				RelativePath=".\WebViewEx.h"
 				>
 			</File>
 		</Filter>

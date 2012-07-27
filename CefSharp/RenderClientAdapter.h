@@ -29,6 +29,15 @@ namespace CefSharp
         virtual DECL void OnPopupShow(CefRefPtr<CefBrowser> browser, bool show) OVERRIDE;
         virtual DECL void OnPopupSize(CefRefPtr<CefBrowser> browser,const CefRect& rect) OVERRIDE;
         virtual DECL void OnPaint(CefRefPtr<CefBrowser> browser, PaintElementType type, const RectList& dirtyRects, const void* buffer) OVERRIDE;
-        virtual DECL void OnCursorChange(CefRefPtr<CefBrowser> browser, CefCursorHandle cursor) OVERRIDE;
+        virtual DECL void OnCursorChange(CefRefPtr<CefBrowser> browser, CefCursorHandle cursor) OVERRIDE;  
+
+		virtual DECL bool GetScreenRect(CefRefPtr<CefBrowser> browser, CefRect& rect) OVERRIDE;  
+		virtual DECL bool GetScreenPoint(CefRefPtr<CefBrowser> browser,
+                              int viewX,
+                              int viewY,
+                              int& screenX,
+                              int& screenY) OVERRIDE;  
+		virtual DECL bool GetViewRect(CefRefPtr<CefBrowser> browser,
+                           CefRect& rect) OVERRIDE;  
     };
 }

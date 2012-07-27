@@ -3,6 +3,7 @@ using System.ComponentModel;
 using System.IO;
 using System.Net;
 using System.Text;
+using CefSharp;
 
 namespace CefSharp.Example
 {
