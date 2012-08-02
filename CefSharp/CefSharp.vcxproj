@@ -119,6 +119,7 @@
     <ClCompile Include="BindingHandler.cpp" />
     <ClCompile Include="BrowserCore.cpp" />
     <ClCompile Include="ClientAdapter.cpp" />
+    <ClCompile Include="BrowserSettings.cpp" />
     <ClCompile Include="RenderClientAdapter.cpp" />
     <ClCompile Include="Request.cpp" />
     <ClCompile Include="RequestResponse.cpp" />
@@ -136,7 +137,6 @@
   <ItemGroup>
     <ClInclude Include="BindingHandler.h" />
     <ClInclude Include="BrowserCore.h" />
-    <ClInclude Include="BrowserSettings.h" />
     <ClInclude Include="CefSharp.h" />
     <ClInclude Include="ClientAdapter.h" />
     <ClInclude Include="ConsoleMessageEventArgs.h" />
