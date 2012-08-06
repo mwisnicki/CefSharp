@@ -133,5 +133,8 @@
     <ClInclude Include="TypeUtil.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="LoadCompletedEventArgs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

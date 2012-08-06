@@ -147,6 +147,7 @@
     <ClInclude Include="IRenderWebBrowser.h" />
     <ClInclude Include="IRequestHandler.h" />
     <ClInclude Include="IWebBrowser.h" />
+    <ClInclude Include="LoadCompletedEventArgs.h" />
     <ClInclude Include="MCefRefPtr.h" />
     <ClInclude Include="RenderClientAdapter.h" />
     <ClInclude Include="Request.h" />
